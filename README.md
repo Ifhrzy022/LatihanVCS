@@ -68,3 +68,4 @@ $git push -u origin master
 
 Selesai
  
+![image](https://user-images.githubusercontent.com/92860414/138598585-9d0ee739-1da4-474b-b0ad-5e8361c4d820.png)
